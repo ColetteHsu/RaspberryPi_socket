@@ -1,6 +1,6 @@
-# RaspberryPi_socket
+## RaspberryPi_socket
 
-在一開始透過「UDP/TCP/Rest Network Test Utility」連線樹莓派的ip位置，完成手機控制樹莓派開關燈功能。 
+功能介紹：在一開始透過「UDP/TCP/Rest Network Test Utility」連線樹莓派的ip位置，完成手機控制樹莓派開關燈功能。 
 1.ron - 開紅燈 
 2.yon - 開黃燈 
 3.gon - 開綠燈 
